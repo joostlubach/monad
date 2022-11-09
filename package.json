@@ -1,0 +1,9 @@
+{
+  "name": "monad",
+  "version": "1.0.0",
+  "description": "Monad utility class for dealing with values that may be scalars or arrays.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
