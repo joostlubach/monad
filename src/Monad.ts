@@ -3,7 +3,7 @@ import { isArray } from 'lodash'
 export default class Monad<T> {
 
   constructor(
-    public readonly value: T | T[] | null
+    public readonly value: T | T[] | null,
   ) {}
 
   public asArray() {
