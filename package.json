@@ -2,7 +2,6 @@
   "name": "monad",
   "description": "Monad utility class.",
   "version": "0.0.1",
-  "type": "module",
   "author": "Joost Lubach",
   "license": "MIT",
   "exports": {
