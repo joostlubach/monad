@@ -1,1 +1,1 @@
-export { default as Monad } from './Monad.js'
+export { default as Monad } from './Monad'
