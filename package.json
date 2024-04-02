@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "author": "Joost Lubach",
   "license": "MIT",
+  "type": "module",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
